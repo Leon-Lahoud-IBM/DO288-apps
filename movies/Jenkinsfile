@@ -10,8 +10,8 @@ pipeline {
     }
 
     environment {
-        DEV_PROJECT = "Leon-Lahoud-IBM-movies-dev"
-        STAGE_PROJECT = "Leon-Lahoud-IBM-movies-stage"
+        DEV_PROJECT = "leon-lahoud-ibm-movies-dev"
+        STAGE_PROJECT = "leon-lahoud-ibm-movies-stage"
         APP_GIT_URL = "https://github.com/Leon-Lahoud-IBM/DO288-apps"
         NEXUS_SERVER = "http://nexus-common.apps.cluster.domain.example.com/repository/java"
 
